@@ -6,9 +6,9 @@
         "type": "HarmonyOS",
         "material": {
           "certpath": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_hm_com.example.hm_30086000738773938.cer",
-          "storePassword": "0000001B273E542D1A977EC829FD88FEC47D7CF88562F398F26BE87C481038F97EF7840B166C43959CB9DE",
+          "storePassword": "0000001B42E09938E4BABBB09064E6D247272BB3C73C8CAF5FF3BF8FB6C21139220D09D4E387C2235D9C35",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001B1FD8BDCF984CE8C038400279B92A4436ACB6BBCF223EDF6CD0FD0F38AC7D216BB05A40078DE286",
+          "keyPassword": "0000001B13807A7D0B3A62F3831C92ACA0D18AFE0CCB5A9858CE164E0DCF2783CC59A639550C4EDF639FFD",
           "profile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_hm_com.example.hm_30086000738773938.p7b",
           "signAlg": "SHA256withECDSA",
           "storeFile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_hm_com.example.hm_30086000738773938.p12"

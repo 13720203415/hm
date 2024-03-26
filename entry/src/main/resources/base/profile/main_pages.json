@@ -3,6 +3,8 @@
     "pages/Index",
     "pages/APage",
     "pages/ListPage",
-    "pages/AnimationPage"
+    "pages/AnimationPage",
+    "pages/DocumentPage",
+    "pages/DocumentListPage"
   ]
 }

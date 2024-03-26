@@ -12,7 +12,8 @@ class RouterInfo {
 const  routers: RouterInfo[] = [
   new RouterInfo("pages/APage","任务进度页面"),
   new RouterInfo("pages/ListPage","商品列表页面"),
-  new RouterInfo("pages/AnimationPage","小鱼动画")
+  new RouterInfo("pages/AnimationPage","小鱼动画"),
+  new RouterInfo("pages/DocumentListPage","文档列表")
 ]
 
 @Entry
@@ -41,7 +42,6 @@ struct Index {
       .layoutWeight(1)
       .alignListItem(ListItemAlign.Center)
       .width("100%")
-      .backgroundColor(Color.Gray)
     }
     .width("100%")
     .height("100%")
